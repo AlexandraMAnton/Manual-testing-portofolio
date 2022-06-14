@@ -26,8 +26,7 @@ This are will contain 3 section:
 Business requirements [attached](https://github.com/AlexandraMAnton/Manual-testing-portofolio/blob/main/Final%20Project/BUSINESS%20%20REQUIREMENTS.docx)
 
 
-
-!(https://github.com/AlexandraMAnton/Manual-testing-portofolio/blob/main/Final%20Project/AAFP-2.jpg)
+![](https://github.com/AlexandraMAnton/Manual-testing-portofolio/blob/main/Final%20Project/AAFP-2.jpg)
 
 
 
