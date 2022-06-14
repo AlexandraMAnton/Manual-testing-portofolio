@@ -19,9 +19,15 @@ The “New employee” section can be accessed in PIM module (go to PIM>> Add Em
 This area can be managed by an user with create, edit and delete permission and will be visible to Admin module.
 
 This are will contain 3 section:
-Personal details;
-Custom field;
-Add attachment.
+* Personal details;
+* Custom field;
+* Add attachment.
+
+Business requirements [attached](https://github.com/AlexandraMAnton/Manual-testing-portofolio/blob/main/Final%20Project/BUSINESS%20%20REQUIREMENTS.docx)
+
+
+
+!(https://github.com/AlexandraMAnton/Manual-testing-portofolio/blob/main/Final%20Project/AAFP-2.jpg)
 
 
 
