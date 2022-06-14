@@ -3,6 +3,7 @@
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application. 
 
 Application under test: [OrangeHRM](https://opensource-demo.orangehrmlive.com/)
+
 Original documentation: [OrangeHRM](https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf)
 
 API Documentation: [OrangeHRM - Api deocumentation](https://orangehrm.github.io/orangehrm-api-doc/)
