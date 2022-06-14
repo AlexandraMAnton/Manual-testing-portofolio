@@ -3,6 +3,7 @@
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application. 
 
 Application under test: [OrangeHRM](https://opensource-demo.orangehrmlive.com/)
+Original documentation: [OrangeHRM](https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf)
 
 API Documentation: [OrangeHRM - Api deocumentation](https://orangehrm.github.io/orangehrm-api-doc/)
 
@@ -23,7 +24,7 @@ This are will contain 3 section:
 * Custom field;
 * Add attachment.
 
-Business requirements [attached](https://github.com/AlexandraMAnton/Manual-testing-portofolio/blob/main/Final%20Project/BUSINESS%20%20REQUIREMENTS.docx)
+Business requirements that I created [attached](https://github.com/AlexandraMAnton/Manual-testing-portofolio/blob/main/Final%20Project/BUSINESS%20%20REQUIREMENTS.docx)
 
 
 ![](https://github.com/AlexandraMAnton/Manual-testing-portofolio/blob/main/Final%20Project/AAFP-2.jpg)
@@ -147,6 +148,20 @@ Testing environment is up and running: [OrangeHRM](https://opensource-demo.orang
 
 # 2 SQL section
 
-For my p
+For my SQL section I create a database "New Employee" with 3 tabelas:
+* personaldetails (id, FirstName, LastName, DateOf Birth, IdNat, Department);
+* department (id_dep, Department, salary);
+* nationality (id_nat, NAtionality).
+
+In my SQL project I use the following interrogations:
+* create, use, select * from, inssert;
+* update, alter table;
+* where, limit, min, max, avg, sum, group by, count, inner join;
+
+![](https://github.com/AlexandraMAnton/Manual-testing-portofolio/blob/main/Final%20Project/diagram%20sql.jpg)
+
+Project [here](https://github.com/AlexandraMAnton/Manual-testing-portofolio/blob/main/Final%20Project/SQL%20final%20project%20New%20Employee.sql)
+
+Thank you! :)
 
 
