@@ -161,7 +161,7 @@ In my SQL project I use the following interrogations:
 
 ![](https://github.com/AlexandraMAnton/Manual-testing-portofolio/blob/main/Final%20Project/diagram%20sql.jpg)
 
-Project [here](https://github.com/AlexandraMAnton/Manual-testing-portofolio/blob/main/Final%20Project/SQL%20final%20project%20New%20Employee.sql)
+SQL project [here](https://github.com/AlexandraMAnton/Manual-testing-portofolio/blob/main/Final%20Project/SQL%20final%20project%20New%20Employee.sql)
 
 Thank you! :)
 
