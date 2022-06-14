@@ -110,8 +110,8 @@ The testing process will be executed based on the Business Requirements Specific
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases 
 are:
 
-**Test cases:**
- ![](https://github.com/AlexandraMAnton/Manual-testing-portofolio/blob/main/Final%20Project/Test%20cases.jpg)
+Test cases:
+![](https://github.com/AlexandraMAnton/Manual-testing-portofolio/blob/main/Final%20Project/Test%20cases.jpg)
 
 
 The test cases with steps can be viewed here: [test_cases.xlsx](https://github.com/AlexandraMAnton/Manual-testing-portofolio/blob/main/Final%20Project/Jira%20All%20Test%20Cases%20with%20steps.xlsx)
