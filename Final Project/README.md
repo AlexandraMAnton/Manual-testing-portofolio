@@ -2,9 +2,9 @@
 
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application. 
 
-Application under test: 
+Application under test: [OrangeHRM](https://opensource-demo.orangehrmlive.com/)
 
-API Documentation: 
+API Documentation: [OrangeHRM - Api deocumentation](https://orangehrm.github.io/orangehrm-api-doc/)
 
 **The final project will be split into 2 sections: [Testing section](https://github.com/AlexandraMAnton/Manual-testing-portofolio/blob/main/Final%20Project/README.md#1-testing-section) and [SQL section](https://github.com/AlexandraMAnton/Manual-testing-portofolio/blob/main/Final%20Project/README.md#2-sql-section).**
 
@@ -12,7 +12,17 @@ Tools used:
 
 # Functional specifications
 
--> enter here the functional specifications created in JIRA
+The below Epic was created in JIRA and describes the functional specifications of the PIM – Add employee, personal details module.
+
+The “New employee” section can be accessed in PIM module (go to PIM>> Add Employee). After the first name and the last name of a new employee are entered, a new page will appear. This is the page where personal details are entered for new employee, the page I will test in this project.
+
+This area can be managed by an user with create, edit and delete permission and will be visible to Admin module.
+
+This are will contain 3 section:
+Personal details;
+Custom field;
+Add attachment.
+
 
 
 # 1 Testing section
