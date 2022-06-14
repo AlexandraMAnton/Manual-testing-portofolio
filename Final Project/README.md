@@ -113,6 +113,8 @@ are:
 Test cases:
 ![](https://github.com/AlexandraMAnton/Manual-testing-portofolio/blob/main/Final%20Project/Test%20cases.jpg)
 
+Postman Test cases:
+![](https://github.com/AlexandraMAnton/Manual-testing-portofolio/blob/main/Final%20Project/Postaman.jpg)
 
 The test cases with steps can be viewed here: [test_cases.xlsx](https://github.com/AlexandraMAnton/Manual-testing-portofolio/blob/main/Final%20Project/Jira%20All%20Test%20Cases%20with%20steps.xlsx)
 
@@ -133,7 +135,12 @@ Testing environment is up and running: [OrangeHRM](https://opensource-demo.orang
 * Test cases are executed on the created test Cycle summary: 
 * [cycle_summary_execution.pdf](https://github.com/AlexandraMAnton/Manual-testing-portofolio/blob/main/Final%20Project/Jira%20Test%20cases.pdf)
 * ![](https://github.com/AlexandraMAnton/Manual-testing-portofolio/blob/main/Final%20Project/Teste%20Execution%20by%20Test%20Cycle.jpg)
-* 
+
+API tests were executed in Jira
+![](https://github.com/AlexandraMAnton/Manual-testing-portofolio/blob/main/Final%20Project/API%20test%20cycle.jpg)
+
+API tests were written in Postman and contains GET, POST, PUT and DELETE HTTP methods. You can check [here](https://github.com/AlexandraMAnton/Manual-testing-portofolio/blob/main/Final%20Project/AlexandraAnton%20final%20project.postman_test_run.json)
+ 
 * Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf](https://github.com/AlexandraMAnton/Manual-testing-portofolio/blob/main/Final%20Project/Jira%20bugs.pdf)
 
 * List of Bugs:
