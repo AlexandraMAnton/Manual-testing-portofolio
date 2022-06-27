@@ -54,7 +54,11 @@ Roles assigned to the project and persons allocated:
 
 
 #### 1.1.2 Entry criteria defined:
+
 •	The test engineers are dedicated;
+
+* Role and permissions are allocated;
+
 •	Necessary devices, instruments, and other equipment are acquired.
 
 
