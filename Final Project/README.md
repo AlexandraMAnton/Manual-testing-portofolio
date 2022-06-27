@@ -63,10 +63,15 @@ Roles assigned to the project and persons allocated:
 
 
 #### 1.1.3 Exit criteria defined:
+
 •	All test cases have been executed;
+
 •	At least 60% of test cases with status passed;
+
 •	No other critical defects were detected;
+
 •	Maximum 10 high priority defects still opened;
+
 •	Testing deadline 16.06.2022.
 
 #### 1.1.4 Test scope
