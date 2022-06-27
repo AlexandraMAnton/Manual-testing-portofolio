@@ -43,6 +43,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 1.1.1 Roles assigned to the project and persons allocated
 Roles assigned to the project and persons allocated:
+
 •	Project manager – Ion Popescu;
 •	Product owner – Maria Popescu;
 •	Software developer – Gheorghe Popescu;
