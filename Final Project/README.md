@@ -103,24 +103,43 @@ Periodic reports were done to reflect the current status of the testing process.
 ## 1.3 Test Analysis
 
 The testing process will be executed based on the Business Requirements Specification (BRS) for the PIM module – Add Employee. The following test conditions were found:
+
 •	Check the mandatory field, first name and last name, in Personal Details section;
+
 •	Check the optional field, Driver's License Number, in Personal Details section;
+
 •	Check the data format in Personal Details section;
+
 •	Check if future dates are allowed in Personal Details section;
+
 •	Check if the radio buttons, Gender, can be selected in Personal Details section;
+
 •	Check if any value from drop down fields in the form 'Nationality' can be selected in Personal Details section;
+
 * Check if any value from drop down fields in the form 'Blood tyoe' can be selected in Custom field section;
+* 
 •	Check the maxim characters for all text fields in in Personal Details section;
+
 •	Check if the user is allowed to add attachment in Attachament section;
+
 •	Check if attachments can be added in Attachament section;
+
 •	Check if added attachments can be deleted in Attachament section;
+
 •	Check add/edit/delete actions via UI and via API
+
 
 
 ## 1.4 Test Design
 
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases 
 are:
+
+* Black box testing : boundary values, use case testing;
+
+* Decision table based testing;
+
+
 
 Test cases:
 
@@ -169,10 +188,12 @@ API tests were written in Postman and contains GET, POST, PUT and DELETE HTTP me
 ## 1.7 Test Completion
 
 * Exit criteria was evaluated and passed
-* The traceability matrix was generated and can be found [here](https://github.com/AlexandraMAnton/Manual-testing-portofolio/blob/main/Final%20Project/Traceability%20Matrix.jpg)
+* The traceability matrix was generated and can be found [here](https://github.com/AlexandraMAnton/Manual-testing-portofolio/blob/main/Final%20Project/Traceability%20Matrix.xlsx)
 
-* ![](https://github.com/AlexandraMAnton/Manual-testing-portofolio/blob/main/Final%20Project/Traceability%20Matrix.jpg) 
+![](https://github.com/AlexandraMAnton/Manual-testing-portofolio/blob/main/Final%20Project/Traceability%20Matrix.jpg)
 
+The traceability matrix sort by story can be foud [here](https://github.com/AlexandraMAnton/Manual-testing-portofolio/blob/main/Final%20Project/Story%20Traceability%20Matrix.xlsx)
+![](https://github.com/AlexandraMAnton/Manual-testing-portofolio/blob/main/Final%20Project/Story%20Traceability%20Matrix.jpg)
 
 # 2 SQL section
 
