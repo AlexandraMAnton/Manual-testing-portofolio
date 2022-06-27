@@ -16,11 +16,12 @@ Tools used:
 
 The below Epic was created in JIRA and describes the functional specifications of the PIM – Add employee, personal details module.
 
-The “New employee” section can be accessed in PIM module (go to PIM>> Add Employee). After the first name and the last name of a new employee are entered, a new page will appear. This is the page where personal details are entered for new employee, the page I will test in this project.
+The “New employee” section can be accessed in the PIM module (go to PIM>> Add Employee). After the first name and the last name of a new employee are entered, a new page will appear. This is the page where personal details are entered for the new employee, the page I will test in this project.
 
-This area can be managed by an user with create, edit and delete permission and will be visible to Admin module.
+This area can be managed by a user with create, edit and delete permission and  will be visible  to the Admin module.
 
-This are will contain 3 section:
+This are will contain three sections:
+
 * Personal details;
 * Custom field;
 * Add attachment.
