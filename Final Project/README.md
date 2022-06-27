@@ -42,20 +42,20 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 
 #### 1.1.1 Roles assigned to the project and persons allocated
-Roles assigned to the project and persons allocated
+Roles assigned to the project and persons allocated:
 •	Project manager – Ion Popescu;
 •	Product owner – Maria Popescu;
 •	Software developer – Gheorghe Popescu;
 •	QA Engineer –Alexandra Anton.
 
 
-#### 1.1.2 Entry criteria defined
+#### 1.1.2 Entry criteria defined:
 •	The test engineers are dedicated;
 •	Necessary devices, instruments, and other equipment are acquired.
 
 
 
-#### 1.1.3 Exit criteria defined
+#### 1.1.3 Exit criteria defined:
 •	All test cases have been executed;
 •	At least 60% of test cases with status passed;
 •	No other critical defects were detected;
