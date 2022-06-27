@@ -45,8 +45,11 @@ The plan identifies the items to be tested, the features to be tested, the types
 Roles assigned to the project and persons allocated:
 
 •	Project manager – Ion Popescu;
+
 •	Product owner – Maria Popescu;
+
 •	Software developer – Gheorghe Popescu;
+
 •	QA Engineer –Alexandra Anton.
 
 
