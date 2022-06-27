@@ -132,9 +132,9 @@ The following elements are needed to be ready before the test execution phase be
 
 Testing environment is up and running: [OrangeHRM](https://opensource-demo.orangehrmlive.com/)
 •	Access to the testing environment is given: Username : Admin | Password : admin123
-•	Cycle summary was created
-•	Test cases were added to the cycle summary
-•	Postman collection with the dependents API methods was created
+•	Cycle summary was created;
+•	Test cases were added to the cycle summary;
+•	Postman collection with the dependents API methods was created;
 •	Authorization token was created for accessing the API.
 
 
@@ -158,7 +158,7 @@ API tests were written in Postman and contains GET, POST, PUT and DELETE HTTP me
 
 * Exit criteria was evaluated and passed
 * The traceability matrix was generated and can be found [here](https://github.com/AlexandraMAnton/Manual-testing-portofolio/blob/main/Final%20Project/Traceability%20Matrix.jpg)
-* 
+
 * ![](https://github.com/AlexandraMAnton/Manual-testing-portofolio/blob/main/Final%20Project/Traceability%20Matrix.jpg) 
 
 
